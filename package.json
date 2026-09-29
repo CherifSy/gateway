@@ -81,7 +81,7 @@
     "ts-jest": "^21.1.4",
     "typescript": "^2.4.1",
     "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.5.0"
+    "webpack-dev-server": "^5.2.6"
   },
   "jest": {
     "coverageDirectory": "./coverage/",
